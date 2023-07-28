@@ -308,6 +308,7 @@ section {
     flex-wrap: wrap;
     gap: 1rem;
     border-radius: 5px;
+    justify-content: center;
 }
 
 .contato .row .map {
@@ -323,7 +324,6 @@ section {
     color: #fff;
     padding: 5rem;
     text-align: center;
-    justify-content: center;
 }
 
 .contato .row .side-info-map p {
