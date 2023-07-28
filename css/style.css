@@ -158,8 +158,8 @@ section {
 }
 
 .home .content p {
-    font-size: 1.2em;
-    font-weight: lighter;
+    font-size: 1.3em;
+    font-weight: normal;
     text-align: justify;
     line-height: 1.8;
     padding: 1rem 0;
@@ -249,7 +249,7 @@ section {
 }
 
 .festas .box-container .box .image img {
-    height: 30rem;
+    height: 25rem;
     border-radius: 10px;
 }
 
