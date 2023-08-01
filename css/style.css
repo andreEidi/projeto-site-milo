@@ -151,8 +151,8 @@ section {
     max-width: 60rem;
 }
 
-.home .content h1 {
-    font-size: 4.5rem;
+.home .content h3 {
+    font-size: 6rem;
     text-transform: uppercase;
     color: #fff;
 }
